@@ -7,8 +7,8 @@ function App() {
     <>
     <Canvas
       camera={{
-        fov: 23,
-        position: [1.6, -6,3.3],
+        fov: 25,
+        position: [0, -8, 4.5],
       }}
     >
       <Experience />

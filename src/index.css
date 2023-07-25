@@ -10,3 +10,8 @@ body, html{
   font-family:poppins;
   color:white;
 }
+
+a{
+  margin-right:2px;
+  color:white;
+}

@@ -42,20 +42,25 @@ export const Test = () => {
           <h1>
             hello, i'm vince
           </h1>
+          <p>
+            <b>move zeraora by clicking and dragging</b>
+          </p>
           <p >↓</p>
         </Section>
         <Section right opacity={opacitySecondSection}>
           <h1>
-            christ i need better hobbies
+            about me
           </h1>
           <p>
-            <b>things i'm good at</b>
+            <b>previously i've served as:</b>
           </p>
           <ul>
-            <li>coding shit</li>
-            <li>graphic design shit</li>
-            <li>sleeping</li>
-            <li>and other duties as assigned</li>
+            <li>operations manager @ arc system works</li>
+            <li>community manager @ kabam / netmarble</li>
+            <li>community manager @ supercolony / vespa</li>
+            <li>organized play coordinator @konami</li>
+            <li>event manager @ west coast gaming events</li>
+            <li>tournament organizer @ oc dugout</li>
           </ul>
           <p >↓</p>
         </Section>
@@ -67,7 +72,8 @@ export const Test = () => {
             i'm expensive af.
           </p>
           <p>
-            <a href="tel:(333)333-3333">(333) 333-3333</a>
+            <a href="mailto:vinceryangarcia@gmail.com">email</a>
+            <a href="http://www.linkedin.com/in/vlnce">linkedin</a>
           </p>
         </Section>
       </div>
