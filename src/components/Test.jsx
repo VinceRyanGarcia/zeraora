@@ -58,7 +58,7 @@ export const Test = () => {
             <li>operations manager @ arc system works</li>
             <li>community manager @ kabam / netmarble</li>
             <li>community manager @ supercolony / vespa</li>
-            <li>organized play coordinator @konami</li>
+            <li>organized play coordinator @ konami</li>
             <li>event manager @ west coast gaming events</li>
             <li>tournament organizer @ oc dugout</li>
           </ul>
