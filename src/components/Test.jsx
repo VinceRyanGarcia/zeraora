@@ -14,7 +14,7 @@ const Section = (props) => {
     >
       <div className="w-1/2 flex items-center justify-center">
         <div className="max-w-sm w-full">
-          <div className="bg-white  rounded-lg px-8 py-12">
+          <div className="bg-white rounded-lg px-8 py-12">
             {props.children}
           </div>
         </div>
@@ -40,17 +40,14 @@ export const Test = () => {
       <div class="w-screen">
         <Section opacity={opacityFirstSection}>
           <h1>
-            hello, i'm vince
+            👋 hello, i'm vince
           </h1>
           <p>
-            <b>move zeraora by clicking and dragging</b>
+            <b>rotate zeraora by clicking and dragging!</b>
           </p>
-          <p >↓</p>
+          <p >↓ scroll down for more information about me :)</p>
         </Section>
         <Section right opacity={opacitySecondSection}>
-          <h1>
-            about me
-          </h1>
           <p>
             <b>previously i've served as:</b>
           </p>
@@ -69,7 +66,7 @@ export const Test = () => {
             hire me?
           </h1>
           <p>
-            i'm expensive af.
+            i'm excited to collaborate with you (:
           </p>
           <p>
             <a href="mailto:vinceryangarcia@gmail.com">email</a>
